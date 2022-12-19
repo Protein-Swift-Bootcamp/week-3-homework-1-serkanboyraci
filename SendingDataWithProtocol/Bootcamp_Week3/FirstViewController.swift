@@ -17,7 +17,7 @@ class FirstViewController: UIViewController, MyDataSendingDelegateProtocol { //f
     }
     
     func sendDataToFirstViewController(myData: String) { // you must use protocol func's
-        self.receivedDataLabel.text = myData
+        receivedDataLabel.text = "Received Data: \(myData)"
     }
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
