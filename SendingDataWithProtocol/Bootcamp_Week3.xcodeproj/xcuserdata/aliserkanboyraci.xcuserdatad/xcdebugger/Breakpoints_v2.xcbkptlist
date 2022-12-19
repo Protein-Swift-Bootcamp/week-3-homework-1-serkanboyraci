@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D7A41BAA-DC80-4EEB-9657-382AE25C85E9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B27A50B9-D48B-4A89-AFB2-1A0AF69AD7E6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bootcamp_Week3/FirstViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "FirstViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B27A50B9-D48B-4A89-AFB2-1A0AF69AD7E6 - a3079c0f40e5b34f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bootcamp_Week3.FirstViewController.receivedDataLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Bootcamp_Week3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aliserkanboyraci/Desktop/IOS/Bootcamp_Simpra_iOS/Week3/SendingDataWithProtocol/SendingDataWithProtocol/Bootcamp_Week3/FirstViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "B27A50B9-D48B-4A89-AFB2-1A0AF69AD7E6 - 5b98ba8840081f53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bootcamp_Week3.FirstViewController.receivedDataLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Bootcamp_Week3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aliserkanboyraci/Desktop/IOS/Bootcamp_Simpra_iOS/Week3/SendingDataWithProtocol/SendingDataWithProtocol/Bootcamp_Week3/FirstViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "B27A50B9-D48B-4A89-AFB2-1A0AF69AD7E6 - 398757b632a41a4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bootcamp_Week3.FirstViewController.receivedDataLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Bootcamp_Week3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aliserkanboyraci/Desktop/IOS/Bootcamp_Simpra_iOS/Week3/SendingDataWithProtocol/SendingDataWithProtocol/Bootcamp_Week3/FirstViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B27A50B9-D48B-4A89-AFB2-1A0AF69AD7E6 - b9a76f3730b144e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bootcamp_Week3.FirstViewController.receivedDataLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Bootcamp_Week3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aliserkanboyraci/Desktop/IOS/Bootcamp_Simpra_iOS/Week3/SendingDataWithProtocol/SendingDataWithProtocol/Bootcamp_Week3/FirstViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "B27A50B9-D48B-4A89-AFB2-1A0AF69AD7E6 - cc58380e071113f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bootcamp_Week3.FirstViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Bootcamp_Week3.FirstViewController"
+                  moduleName = "Bootcamp_Week3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aliserkanboyraci/Desktop/IOS/Bootcamp_Simpra_iOS/Week3/SendingDataWithProtocol/SendingDataWithProtocol/Bootcamp_Week3/FirstViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "B27A50B9-D48B-4A89-AFB2-1A0AF69AD7E6 - de5510f6ab1987aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bootcamp_Week3.FirstViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Bootcamp_Week3.FirstViewController&gt;"
+                  moduleName = "Bootcamp_Week3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aliserkanboyraci/Desktop/IOS/Bootcamp_Simpra_iOS/Week3/SendingDataWithProtocol/SendingDataWithProtocol/Bootcamp_Week3/FirstViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
