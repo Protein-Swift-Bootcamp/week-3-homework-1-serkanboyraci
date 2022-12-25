@@ -21,8 +21,8 @@ class FirstViewController: UIViewController {
         let storyBoard = UIStoryboard(name: "Main", bundle: nil)
         let vc = storyBoard.instantiateViewController(withIdentifier: "SecondViewController") as! SecondViewController
         
-        vc.textClousure = { text in //reaching data with closure
-            self.receivedTextLabel.text = "Received Text: \(text)"
+        vc.textClousure = {[weak self] text in //reaching data with closure. // using with weak self to prevent memory leak
+            self?.receivedTextLabel.text = "Received Text: \(text)" // self must be optional because of weak self
         }
         
         navigationController?.pushViewController(vc, animated: true) // to go secondVC with NavigationController
