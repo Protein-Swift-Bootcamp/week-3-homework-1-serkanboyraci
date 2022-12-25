@@ -9,7 +9,7 @@ import UIKit
 
 class FirstViewController: UIViewController, MyDataSendingDelegateProtocol { //first you must define protocol
     
-    @IBOutlet weak var receivedDataLabel: UILabel! 
+    @IBOutlet weak var receivedDataLabel: UILabel! //defined label
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -20,7 +20,7 @@ class FirstViewController: UIViewController, MyDataSendingDelegateProtocol { //f
         receivedDataLabel.text = "Received Data: \(myData)"
     }
     
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) { // to pass secondVC, we use prepare for segue.
         if segue.identifier == "getDataSegue" {
             let secondVC: SecondViewController = segue.destination as! SecondViewController
             secondVC.delegate = self
